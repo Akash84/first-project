@@ -1,2 +1,2 @@
-# first-project
-My first Github project
+# Akash-portfolio
+About me
